@@ -1,0 +1,140 @@
+[
+    {
+        "question": "Where was Facebook launched?",
+        "answer": "Cambridge",
+        "_id": "123",
+        "type": "bridge",
+        "level": "hard",
+        "context": [
+            [
+                "a",
+                [
+                    "Facebook was launched in United States"
+                ]
+            ],
+            [
+                "c",
+                [
+                    "Harvard is in Massechussetts"
+                ]
+            ],
+            [
+                "d",
+                [
+                    "Birds fly in the sky."
+                ]
+            ],
+            [
+                "e",
+                [
+                    "Mark Zuckerberg founded Facebook"
+                ]
+            ],
+            [
+                "f",
+                [
+                    "It has a movie called Social Network."
+                ]
+            ],
+            [
+                "g",
+                [
+                    "Harvard University is in Cambridge."
+                ]
+            ],
+            [
+                "h",
+                [
+                    "Boston University is in Cambridge"
+                ]
+            ],
+            [
+                "i",
+                [
+                    "Facebook has headquarters in Silicon Valley"
+                ]
+            ],
+            [
+                "j",
+                [
+                    "Google was founded in Cambridge"
+                ]
+            ]
+        ],
+        "supporting_facts": [
+            [
+                "b",
+                0
+            ]
+        ]
+    },
+    {
+        "question": "Where was Facebook launched?",
+        "answer": "Cambridge",
+        "_id": "123",
+        "type": "bridge",
+        "level": "hard",
+        "context": [
+            [
+                "a",
+                [
+                    "Facebook was launched in United States"
+                ]
+            ],
+            [
+                "b",
+                [
+                    "Facebook was launched in Harvard University"
+                ]
+            ],
+            [
+                "c",
+                [
+                    "Harvard is in Massechussetts"
+                ]
+            ],
+            [
+                "d",
+                [
+                    "Birds fly in the sky."
+                ]
+            ],
+            [
+                "e",
+                [
+                    "Mark Zuckerberg founded Facebook"
+                ]
+            ],
+            [
+                "f",
+                [
+                    "It has a movie called Social Network."
+                ]
+            ],
+            [
+                "h",
+                [
+                    "Boston University is in Cambridge"
+                ]
+            ],
+            [
+                "i",
+                [
+                    "Facebook has headquarters in Silicon Valley"
+                ]
+            ],
+            [
+                "j",
+                [
+                    "Google was founded in Cambridge"
+                ]
+            ]
+        ],
+        "supporting_facts": [
+            [
+                "g",
+                0
+            ]
+        ]
+    }
+]
